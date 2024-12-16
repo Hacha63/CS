@@ -1,0 +1,35 @@
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió_d_una_biblioteca.Form1.resources
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.csproj.GenerateResource.cache
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.AssemblyInfoInputs.cache
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.AssemblyInfo.cs
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.exe
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.deps.json
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.runtimeconfig.json
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.dll
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.pdb
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.dll
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\refint\Gestió d'una biblioteca.dll
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.pdb
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.genruntimeconfig.cache
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\ref\Gestió d'una biblioteca.dll
+C:\Users\hacha\source\repos\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió_d_una_biblioteca.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.exe
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.deps.json
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.runtimeconfig.json
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.dll
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\bin\Debug\net8.0-windows\Gestió d'una biblioteca.pdb
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió_d_una_biblioteca.Form1.resources
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió_d_una_biblioteca.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.dll
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\refint\Gestió d'una biblioteca.dll
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.pdb
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió d'una biblioteca.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\ref\Gestió d'una biblioteca.dll
+C:\Users\Usuario\Desktop\Gestió d'una biblioteca\Gestió d'una biblioteca\obj\Debug\net8.0-windows\Gestió_d_una_biblioteca.Form2.resources

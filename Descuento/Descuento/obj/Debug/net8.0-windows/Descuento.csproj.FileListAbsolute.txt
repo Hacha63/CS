@@ -1,0 +1,17 @@
+C:\Users\hacha\source\repos\Descuento\Descuento\bin\Debug\net8.0-windows\Descuento.exe
+C:\Users\hacha\source\repos\Descuento\Descuento\bin\Debug\net8.0-windows\Descuento.deps.json
+C:\Users\hacha\source\repos\Descuento\Descuento\bin\Debug\net8.0-windows\Descuento.runtimeconfig.json
+C:\Users\hacha\source\repos\Descuento\Descuento\bin\Debug\net8.0-windows\Descuento.dll
+C:\Users\hacha\source\repos\Descuento\Descuento\bin\Debug\net8.0-windows\Descuento.pdb
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.Form1.resources
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.csproj.GenerateResource.cache
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.AssemblyInfoInputs.cache
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.AssemblyInfo.cs
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.csproj.CoreCompileInputs.cache
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.dll
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\refint\Descuento.dll
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.pdb
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.genruntimeconfig.cache
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\ref\Descuento.dll
+C:\Users\hacha\source\repos\Descuento\Descuento\obj\Debug\net8.0-windows\Descuento.Properties.Resources.resources

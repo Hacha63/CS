@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hacha\\source\\repos\\Conversor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411AED-5E37-4294-A733-90D3B02BAF50}|Conversor\\Conversor.csproj|c:\\users\\hacha\\source\\repos\\conversor\\conversor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411AED-5E37-4294-A733-90D3B02BAF50}|Conversor\\Conversor.csproj|solutionrelative:conversor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411AED-5E37-4294-A733-90D3B02BAF50}|Conversor\\Conversor.csproj|c:\\users\\hacha\\source\\repos\\conversor\\conversor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0411AED-5E37-4294-A733-90D3B02BAF50}|Conversor\\Conversor.csproj|solutionrelative:conversor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0411AED-5E37-4294-A733-90D3B02BAF50}|Conversor\\Conversor.csproj|c:\\users\\hacha\\source\\repos\\conversor\\conversor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0411AED-5E37-4294-A733-90D3B02BAF50}|Conversor\\Conversor.csproj|solutionrelative:conversor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hacha\\source\\repos\\Conversor\\Conversor\\Form1.cs",
+              "RelativeDocumentMoniker": "Conversor\\Form1.cs",
+              "ToolTip": "C:\\Users\\hacha\\source\\repos\\Conversor\\Conversor\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Conversor\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:01:34.446Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hacha\\source\\repos\\Conversor\\Conversor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Conversor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hacha\\source\\repos\\Conversor\\Conversor\\Form1.Designer.cs",
+              "RelativeToolTip": "Conversor\\Form1.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAewF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:01:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hacha\\source\\repos\\Conversor\\Conversor\\Form1.cs",
+              "RelativeDocumentMoniker": "Conversor\\Form1.cs",
+              "ToolTip": "C:\\Users\\hacha\\source\\repos\\Conversor\\Conversor\\Form1.cs",
+              "RelativeToolTip": "Conversor\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:16:36.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
