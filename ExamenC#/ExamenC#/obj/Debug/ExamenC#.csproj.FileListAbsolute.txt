@@ -1,0 +1,11 @@
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC#.csproj.AssemblyReference.cache
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC_.FrmExamen.resources
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC_.FrmDetallsEstudiant.resources
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC_.Properties.Resources.resources
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC#.csproj.GenerateResource.cache
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC#.csproj.CoreCompileInputs.cache
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\bin\Debug\ExamenC#.exe.config
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\bin\Debug\ExamenC#.exe
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\bin\Debug\ExamenC#.pdb
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC#.exe
+C:\Users\hacha\source\repos\ExamenC#\ExamenC#\obj\Debug\ExamenC#.pdb
