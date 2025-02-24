@@ -1,0 +1,16 @@
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\net8.0-windows\DataGridViewExample.exe
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\net8.0-windows\DataGridViewExample.deps.json
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\net8.0-windows\DataGridViewExample.runtimeconfig.json
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\net8.0-windows\DataGridViewExample.dll
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\net8.0-windows\DataGridViewExample.pdb
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.Form1.resources
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.AssemblyInfoInputs.cache
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.AssemblyInfo.cs
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.dll
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\refint\DataGridViewExample.dll
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.pdb
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\DataGridViewExample.genruntimeconfig.cache
+C:\Users\hacha\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\net8.0-windows\ref\DataGridViewExample.dll

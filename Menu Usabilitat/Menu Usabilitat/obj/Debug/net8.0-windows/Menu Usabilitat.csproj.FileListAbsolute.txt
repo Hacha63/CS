@@ -1,0 +1,18 @@
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\bin\Debug\net8.0-windows\Menu Usabilitat.exe
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\bin\Debug\net8.0-windows\Menu Usabilitat.deps.json
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\bin\Debug\net8.0-windows\Menu Usabilitat.runtimeconfig.json
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\bin\Debug\net8.0-windows\Menu Usabilitat.dll
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\bin\Debug\net8.0-windows\Menu Usabilitat.pdb
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu_Usabilitat.Form1.resources
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.csproj.GenerateResource.cache
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.AssemblyInfoInputs.cache
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.AssemblyInfo.cs
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.csproj.CoreCompileInputs.cache
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.dll
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\refint\Menu Usabilitat.dll
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.pdb
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu Usabilitat.genruntimeconfig.cache
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\ref\Menu Usabilitat.dll
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu_Usabilitat.Form2.resources
+C:\Users\hacha\source\repos\Menu Usabilitat\Menu Usabilitat\obj\Debug\net8.0-windows\Menu_Usabilitat.Form3.resources
